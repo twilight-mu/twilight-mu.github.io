@@ -25,19 +25,19 @@ author:
   avatar           : "profile.png"
   name             : "孙傲歆"
   pronouns         : # example: "she/her"  
-  bio              : "南京理工大学本科生\\n北京航空航天大学硕士研究生"
+  bio              : "南京理工大学本科生<br>北京航空航天大学硕士研究生"
   location         : "北京-海淀区"
   employer         : "北京航空航天大学"
   uri              : # URL
-  email            : "sunaoxin@buaa.edu.cn/twilightmu@qq.com " 
+  email            : "sunaoxin@buaa.edu.cn" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.com.hk/citations?hl=zh-CN&user=hZ3PGbAAAAAJ"
   impactstory      : # URL
   orcid            : "http://orcid.org/yourorcidurl"
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : # URL
   researchgate     : # URL
   scopus           : # URL
 

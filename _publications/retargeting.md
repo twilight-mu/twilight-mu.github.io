@@ -11,6 +11,7 @@ slidesurl: 'https://www.bilibili.com/video/BV1N86EYqEjR'
 citation: '<b>A. Sun</b>, J. Wu, R. Fan, S. K. Im and L. Wang, "Efficient and Comfortable Haptic Retargeting With Reset Point Optimization," in IEEE Transactions on Visualization and Computer Graphics, doi: 10.1109/TVCG.2024.3523042. '
 ---
 <img src='/images/hp_head.png'>
+
 触觉重定向是指通过视觉欺骗的方式将多个虚拟物体映射到一个真实物体上，为用户提供触觉反馈。本方法基于人体工学和心理学对触觉重定向重置点进行了优化。
 
 文章的贡献包括：

@@ -9,8 +9,8 @@ main:
     url: /publications/
 
   - title: "项目"
-    url: /projects/    
+    url: /portfolio/    
 
-  - title: "其他"
-    url: /others/    
+  - title: "简历"
+    url: /cv/    
     

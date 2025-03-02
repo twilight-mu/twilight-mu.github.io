@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+教育经历
 ======
 * 南京理工大学，计算机科学与工程学院，本科生 （2019.09-2023.06）
 

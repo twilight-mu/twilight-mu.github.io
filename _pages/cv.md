@@ -11,37 +11,45 @@ redirect_from:
 
 Education
 ======
-* 南京理工大学 计算机科学与工程学院 本科生 2019.09-2023.06
+* 南京理工大学，计算机科学与工程学院，本科生 （2019.09-2023.06）
 
-* 北京航空航天大学 计算机学院 硕士研究生 2023.09-至今
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* 北京航空航天大学，计算机学院，硕士研究生 （2023.09-至今）
 
-Publications
+科研经历
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+项目经历
 ======
-  <ul>{% for post in site.talks reversed %}
+  <ul>{% for post in site.portfolio reversed %}
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
-  
-Teaching
+
+专业技能
 ======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
+* CET4 591分、CET6 486分，有良好的英语阅读及理解能力，具备基本的英语交流能力
+* CSP认证分数排名全国前10%，拥有良好的编程能力，具有解决较复杂编程问题的能力
+* 能熟悉使用办公软件Office，熟练使用Java/C++/C#等编程语言，熟悉常用的数据结构及算法
+* 了解前端架构Vue和后端框架SpringBoot，有Vue+SpringBoot+Mybatis的开发经验
+* 了解Unity、Unreal、Godot游戏引擎，有Unity和Godot引擎的开发经验
+* 掌握图形学基本知识，了解Blender、3D Max等软件，了解OpenGL图形编程API
+
+曾获荣誉
 ======
-* Currently signed in to 43 different slack teams
+* 奖学金
+  * 本科及研究生期间多次获得学院优秀学生奖学金
+  * 研究生期间获创新奖学金
+* 编程竞赛
+  * 第十二届蓝桥杯A组二等奖
+  * 2022RoboCom-CAIP编程设计全国总决赛三等奖
+  * 2022年CCCC团体程序设计天梯赛全国总决赛三等奖
+* 创新创业竞赛
+  * 第十三届服务外包创新创业大赛全国总决赛二等奖
+  * 第十九届挑战杯“揭榜挂帅”专项赛全国总决赛特等奖
+* 其他
+  * 第十七届江苏省高等数学竞赛本科A组二等奖
+  * 第十二届全国大学生数学竞赛(非数学类)一等奖
+
+

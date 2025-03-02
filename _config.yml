@@ -13,7 +13,7 @@ title                    : "孙傲歆的个人主页"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
-url                      : https://twilight-mu.github.io/
+url                      : https://twilight-mu.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "twilight-mu/twilight-mu.github.io"
 

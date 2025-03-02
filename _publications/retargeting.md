@@ -5,7 +5,7 @@ category: manuscripts
 permalink: /publication/retargeting
 excerpt: '基于Unity引擎和HTC Vive头戴显示器设计开发的一款触觉重定向系统。'
 date: 2024-12-26
-venue: 'Journal 1'
+venue: 'IEEE Transactions on Visualization and Computer Graphics (CCF-A,SCI-1区)'
 paperurl: 'http://academicpages.github.io/files/haptic_retargeting.pdf'
 citation: 'A. Sun, J. Wu, R. Fan, S. K. Im and L. Wang, "Efficient and Comfortable Haptic Retargeting With Reset Point Optimization," in IEEE Transactions on Visualization and Computer Graphics, doi: 10.1109/TVCG.2024.3523042. '
 ---

@@ -27,6 +27,16 @@ redirect_from:
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
 
+实习经历
+======
+**腾讯（深圳总部）**
+
+IEG-增值服务部 游戏客户端开发
+* 潘多拉小应用平台群组功能自动化测试原生接口编写
+* 潘多拉小应用平台Gamelet SDK全流程自动化测试接口编写
+* Unreal Engine上的RT
+* Unity Live
+  
 专业技能
 ======
 * CET4 591分、CET6 486分，有良好的英语阅读及理解能力，具备基本的英语交流能力

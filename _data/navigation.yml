@@ -5,12 +5,16 @@
 # prevent it from being included in the site.
 
 main:
-  - title: "文章"
+  - title: "发表文章"
     url: /publications/
 
-  - title: "项目"
+  - title: "项目经历"
     url: /portfolio/    
 
-  - title: "简历"
+  - title: "工作经历"
+    url: /cv/  
+
+  - title: "个人简历"
     url: /cv/    
     
+  
